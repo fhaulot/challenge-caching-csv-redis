@@ -22,10 +22,12 @@ This project demonstrates caching CSV-based computations using Redis. It process
 
 ## ⚙️ Setup
 
+For this challenge, you will need to get docker desktop to run redis. You'll need to upload the data from this ressource : https://www.kaggle.com/datasets/usdot/flight-delays
+
 1. **Clone the repo**
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/fhaulot/challenge-caching-csv-redis
 cd challenge-caching-csv-redis
 ```
 2. **Create a virtual environment**
